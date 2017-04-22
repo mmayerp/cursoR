@@ -1,4 +1,4 @@
-# Curso de R 
+# Curso de introducción del programa R
 Miguel A. Mayer
 
 Versión 1.0 (22/04/2017)
