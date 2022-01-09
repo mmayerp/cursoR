@@ -1,6 +1,6 @@
 Edad	Genero	Diabetes	Glucemia	Colesterol	IAM	Trat
-56	H	No	116	210	No	No
-49	M	No	105	180	No	No
+56	H	No	116	210	No	Si
+49	M	No	105	180	No	Si
 66	H	Si	134	190	No	No
 78	H	Si	140	280	Si	Si
 50	M	No	90	165	No	No
@@ -11,10 +11,10 @@ Edad	Genero	Diabetes	Glucemia	Colesterol	IAM	Trat
 75	M	Si	145	266	Si	Si
 45	M	No	100	174	No	No
 55	H	No	116	295	Si	No
-43	M	No	98	190	No	No
+43	M	No	98	190	No	Si
 78	H	Si	160	220	Si	No
 81	M	Si	140	275	Si	No
-67	H	Si	156	220	No	No
+67	H	Si	156	220	No	Si
 48	M	No	112	138	No	No
 64	H	No	97	269	No	Si
 59	H	Si	167	249	Si	No
@@ -23,8 +23,9 @@ Edad	Genero	Diabetes	Glucemia	Colesterol	IAM	Trat
 71	H	Si	145	250	No	Si
 52	M	No	98	220	No	No
 73	H	Si	136	280	Si	No
-34  	M	No  	86  	160 	No  	No
-60  	H 	No  	106 	210 	No  	No
-37  	H 	No  	89  	167 	No  	No
+34  	M	No  	86  	160 	No  	Si
+60  	H 	No  	106 	210 	No  	Si
+37  	H 	No  	89  	167 	No  	Si
 75  	H 	No  	97  	300 	Si  	No
 65  	M 	No  	100 	200 	No  	Si
+43    M   Si    145   187   No    Si
