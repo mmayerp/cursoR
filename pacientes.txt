@@ -23,9 +23,9 @@ Edad	Genero	Diabetes	Glucemia	Colesterol	IAM	Trat
 71	H	Si	145	250	No	Si
 52	M	No	98	220	No	No
 73	H	Si	136	280	Si	No
-34  	M	No  	86  	160 	No  	Si
-60  	H 	No  	106 	210 	No  	Si
-37  	H 	No  	89  	167 	No  	Si
-75  	H 	No  	97  	300 	Si  	No
-65  	M 	No  	100 	200 	No  	Si
-43    M   Si    145   187   No    Si
+34  M	No  86  160 No  Si
+60  H No  106 210 No  Si
+37  H No  89  167 No  Si
+75  H No  97  300 Si  No
+65  M No  100 200 No  Si
+43  M Si  145 187 No  Si
